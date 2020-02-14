@@ -5,3 +5,7 @@ greetings.greetingEnglish();
 
 // "Konichiwa"
 greetings.greetingJapanese();
+
+greetings.greetingIcelandic();
+
+greetings.greetingSpanish();
